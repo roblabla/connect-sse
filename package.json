@@ -1,6 +1,6 @@
 {
-  "name": "connect-sse",
-  "version": "1.2.0",
+  "name": "@roblabla/connect-sse",
+  "version": "1.3.0",
   "description": "connect middleware for server sent events (EventSource)",
   "main": "index.js",
   "scripts": {
